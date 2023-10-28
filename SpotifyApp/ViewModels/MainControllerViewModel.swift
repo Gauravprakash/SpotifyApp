@@ -1,6 +1,5 @@
 //
 //  MainControllerViewModel.swift
-//  Upkeep iOS Interview Project
 //
 //  Created by Gaurav Prakash on 25/10/23.
 //
